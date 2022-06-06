@@ -1,0 +1,6 @@
+framework module RobotMapViewStatic {
+  umbrella header "RobotMapViewStatic-umbrella.h"
+
+  export *
+  module * { export * }
+}
